@@ -1,0 +1,48 @@
+{
+    "mission_name": "TEKNOFEST Savaşan İHA - Örnek Görev",
+    "mission_description": "Arama, takip ve dönüş görevi",
+    "waypoints": [
+        {
+            "lat": 39.123000,
+            "lon": 35.456000,
+            "alt": 50.0,
+            "name": "Kalkış Noktası",
+            "loiter_time": 0.0
+        },
+        {
+            "lat": 39.124000,
+            "lon": 35.457000,
+            "alt": 60.0,
+            "name": "Arama Noktası 1",
+            "loiter_time": 10.0
+        },
+        {
+            "lat": 39.125000,
+            "lon": 35.458000,
+            "alt": 65.0,
+            "name": "Arama Noktası 2",
+            "loiter_time": 10.0
+        },
+        {
+            "lat": 39.126000,
+            "lon": 35.457500,
+            "alt": 60.0,
+            "name": "Arama Noktası 3",
+            "loiter_time": 10.0
+        },
+        {
+            "lat": 39.125500,
+            "lon": 35.456500,
+            "alt": 55.0,
+            "name": "Arama Noktası 4",
+            "loiter_time": 10.0
+        },
+        {
+            "lat": 39.123000,
+            "lon": 35.456000,
+            "alt": 50.0,
+            "name": "Dönüş - İniş",
+            "loiter_time": 0.0
+        }
+    ]
+}

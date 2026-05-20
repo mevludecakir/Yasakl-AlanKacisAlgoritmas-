@@ -1,0 +1,36 @@
+# Otonom İHA Engelden Kaçış ve Karar Destek Sistemi
+# Python Bağımlılıkları
+
+# Görüntü İşleme
+opencv-python>=4.8.0
+opencv-contrib-python>=4.8.0
+
+# YOLOv11 ve Derin Öğrenme
+ultralytics>=8.0.0
+torch>=2.0.0
+torchvision>=0.15.0
+
+# TensorRT (Jetson Nano için)
+# Not: TensorRT Jetson Nano'da önceden yüklüdür, pip ile kurulmaz
+# pycuda>=2022.1
+
+# MAVLink İletişimi
+pymavlink>=2.4.40
+
+# GUI Framework
+PyQt5>=5.15.9
+PyQt5-sip>=12.12.0
+
+# Numerik Hesaplamalar
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Loglama
+loguru>=0.7.0
+
+# Yardımcı Kütüphaneler
+pillow>=10.0.0
+matplotlib>=3.7.0
+
+# Performans İzleme (Opsiyonel)
+psutil>=5.9.0
